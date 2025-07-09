@@ -1,0 +1,54 @@
+[
+  {
+    "student_id": 1,
+    "major_id": 1
+  },
+  {
+    "student_id": 2,
+    "major_id": 1
+  },
+  {
+    "student_id": 2,
+    "major_id": 2
+  },
+  {
+    "student_id": 3,
+    "major_id": 3
+  },
+  {
+    "student_id": 4,
+    "major_id": 4
+  },
+  {
+    "student_id": 5,
+    "major_id": 1
+  },
+  {
+    "student_id": 5,
+    "major_id": 5
+  },
+  {
+    "student_id": 6,
+    "major_id": 6
+  },
+  {
+    "student_id": 7,
+    "major_id": 7
+  },
+  {
+    "student_id": 8,
+    "major_id": 8
+  },
+  {
+    "student_id": 9,
+    "major_id": 9
+  },
+  {
+    "student_id": 10,
+    "major_id": 1
+  },
+  {
+    "student_id": 10,
+    "major_id": 10
+  }
+]

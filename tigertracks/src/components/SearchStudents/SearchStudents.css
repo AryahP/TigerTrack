@@ -1,0 +1,255 @@
+* {
+    box-sizing: border-box; 
+}
+.search-center{
+    justify-self: center;
+    padding-top: 30px; 
+    font-family: 'IBM Plex Sans', sans-serif;
+}
+
+.student-result{
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-size: 25px; 
+    padding-top: 30px;
+    justify-content: center; 
+    padding-bottom: 20px; 
+    justify-self: center; 
+   
+}
+
+.student-line{
+    border-bottom: 1px solid black; 
+}
+.search-bar-container{
+    border: 2px solid #000;
+    padding: 0.5em; 
+    border-radius: 3px; 
+    display: flex; 
+    flex-wrap: wrap; 
+    width: min(80vw, 700px);
+    margin-top: 1em; 
+    gap: 1em;
+    justify-content: left; 
+    font-family: 'IBM Plex Sans', sans-serif;
+     background-color:  rgb(243, 244, 236); 
+ 
+}
+
+.search-title{
+    font-weight: bold;
+    font-size: 50px; 
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 100px; 
+    padding-bottom: 25px; 
+    
+}
+.dropdown{
+    width: min(80vw, 700px);
+    position: relative; 
+}
+
+.students{
+    width: 100%;
+    display: grid; 
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 1em; 
+    padding-top: 3em;
+    margin-right: 1em; 
+    padding-left: 2em; 
+    
+}
+
+.tag-major{
+    background-color: #F4A0C6;
+    display: inline-block;
+    padding: .5em 0.75em;
+    border-radius: 20px;
+}
+
+.tag-minor{
+    background-color: #E6F027;
+    display: inline-block;
+    padding: .5em 0.75em;
+    border-radius: 20px;
+}
+
+.tag-certificate{
+    background-color: #99A8F4;
+    display: inline-block;
+    padding: .5em 0.75em;
+    border-radius: 20px;
+}
+
+.tag-course{
+    background-color: #98E977;
+    display: inline-block;
+    padding: .5em 0.75em;
+    border-radius: 20px;
+}
+
+.tags .close{
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 0.3em;
+    font-size: 18px; 
+}
+
+.tags-input{
+    flex-grow: 1; 
+    padding: .5em 0;
+    border: none;
+    outline: none; 
+    background-color:  rgb(243, 244, 236);
+}
+
+.minor-block{
+   display: inline-flex;
+   align-items: center;
+
+}
+
+.certificate-block{
+   display: inline-flex;
+   align-items: center;
+
+}
+
+.course-block{
+   display: inline-flex;
+   align-items: center;
+
+}
+
+.major-block{
+   display: inline-flex;
+   align-items: center;
+  
+}
+
+
+.major:hover{
+    background-color: #F4A0C6; 
+}
+
+.major{
+    background-color:#FFD6E8;
+    font-family: 'IBM Plex Sans', sans-serif;
+    padding: 0.5em 1em;
+    border:2px solid #FFF9DB;
+}
+
+
+.major-drop {
+  width: 100%;
+  padding: 0.75em 1em;
+  box-sizing: border-box;
+  background-color: #F4A0C6;
+  font-family: 'IBM Plex Sans', sans-serif;
+  font-size: 16px;
+  border: none;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.dropdown-content {
+  width: 100%;
+  box-sizing: border-box;
+  background-color: #FFD6E8; /* or your dropdown color */
+  margin: 0;
+  padding: 0;
+}
+
+
+
+.chevron-icon {
+    margin-left: auto; /* Pushes it to the right */
+    display: flex;
+    align-items: center;
+}
+
+.course:hover{
+    background-color:  #98E977; 
+}
+
+.course{
+    background-color: #D1FBC1;
+    font-family: 'IBM Plex Sans', sans-serif;
+    padding: 0.5em 1em;
+    border:2px solid #FFF9DB;
+}
+
+
+.course-drop{
+   
+    background-color: #98E977;
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-size: 16px;
+    border: none;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    padding: 0.75em 1em;
+}
+
+
+.minor:hover{
+    background-color:#E6F027; 
+}
+
+.minor{
+    background-color:#F5F9A6; 
+    font-family: 'IBM Plex Sans', sans-serif;
+    padding: 0.5em 1em;
+    border:2px solid #FFF9DB;
+}
+
+.minor-drop{
+    background-color: #E6F027;
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-size: 16px;
+    border: none;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    padding: 0.75em 1em;
+}
+
+
+.certificate:hover{
+    background-color:#99A8F4; 
+}
+
+.certificate{
+    background-color:#D6DCFF; 
+    font-family: 'IBM Plex Sans', sans-serif;
+    padding: 0.5em 1em;
+    border:2px solid #FFF9DB;
+}
+
+.certificate-drop{
+    background-color: #99A8F4;
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-size: 16px;
+    border: none;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    padding: 0.75em 1em;
+}
+
+.no-result{
+    justify-self: center;
+    font-family: 'IBM Plex Sans', sans-serif;
+    padding-top: 2em;
+
+}
+
+
+
+

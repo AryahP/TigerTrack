@@ -1,0 +1,35 @@
+[
+  { "student_id": 1,
+   "certificate_id": 10
+},
+{ "student_id": 1,
+   "certificate_id": 1
+},
+{ "student_id": 6,
+   "certificate_id": 1
+},
+{ "student_id": 7,
+   "certificate_id": 7
+},
+{ "student_id": 7,
+   "certificate_id": 8
+},
+{ "student_id": 8,
+   "certificate_id": 9
+},
+{ "student_id": 9,
+   "certificate_id": 5
+},
+{ "student_id": 9,
+   "certificate_id": 6
+},
+{ "student_id": 9,
+   "certificate_id": 7
+},
+{ "student_id": 2,
+   "certificate_id": 2
+},
+{ "student_id": 3,
+   "certificate_id": 2
+}
+]

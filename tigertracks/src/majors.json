@@ -1,0 +1,146 @@
+[
+  {
+    "three_letter_code": "AAS",
+    "name": "African American Studies"
+  },
+  {
+    "three_letter_code": "ANT",
+    "name": "Anthropology"
+  },
+  {
+    "three_letter_code": "ARC",
+    "name": "Architecture"
+  },
+  {
+    "three_letter_code": "ART",
+    "name": "Art and Archaeology"
+  },
+  {
+    "three_letter_code": "AST",
+    "name": "Astrophysical Sciences"
+  },
+  {
+    "three_letter_code": "CBE",
+    "name": "Chemical and Biological Engineering"
+  },
+  {
+    "three_letter_code": "CHM",
+    "name": "Chemistry"
+  },
+  {
+    "three_letter_code": "CEE",
+    "name": "Civil and Environmental Engineering"
+  },
+  {
+    "three_letter_code": "CLA",
+    "name": "Classics"
+  },
+  {
+    "three_letter_code": "CPL",
+    "name": "Comparitive Literature"
+  },
+  {
+    "three_letter_code": "COS",
+    "name": "Computer Science"
+  },
+  {
+    "three_letter_code": "EAS",
+    "name": "East Asian Studies"
+  },
+  {
+    "three_letter_code": "EEB",
+    "name": "Ecology and Evolutionary Biology"
+  },
+  {
+    "three_letter_code": "ECO",
+    "name": "Economics"
+  },
+  {
+    "three_letter_code": "ECE",
+    "name": "Electrical Computer Engineering"
+  },
+  {
+    "three_letter_code": "ENG",
+    "name": "English"
+  },
+  {
+    "three_letter_code": "FRE",
+    "name": "French and Italian"
+  },
+  {
+    "three_letter_code": "GEO",
+    "name": "Geosciences"
+  },
+  {
+    "three_letter_code": "GER",
+    "name": "German"
+  },
+  {
+    "three_letter_code": "HIS",
+    "name": "History"
+  },
+  {
+    "three_letter_code": "MAT",
+    "name": "Mathematics"
+  },
+  {
+    "three_letter_code": "MAE",
+    "name": "Mechanical Aerospace Engineering"
+  },
+  {
+    "three_letter_code": "MOL",
+    "name": "Molecular Biology"
+  },
+  {
+    "three_letter_code": "MUS",
+    "name": "Music"
+  },
+  {
+    "three_letter_code": "NES",
+    "name": "Near Eastern Studies"
+  },
+  {
+    "three_letter_code": "NEU",
+    "name": "Neuroscience"
+  },
+  {
+    "three_letter_code": "ORF",
+    "name": "Operations Research Financial Engineering"
+  },
+  {
+    "three_letter_code": "PHI",
+    "name": "Philosophy"
+  },
+  {
+    "three_letter_code": "PHY",
+    "name": "Physics"
+  },
+  {
+    "three_letter_code": "POL",
+    "name": "Politics"
+  },
+  {
+    "three_letter_code": "PSY",
+    "name": "Psychology"
+  },
+  {
+    "three_letter_code": "SPI",
+    "name": "Public & International Affairs"
+  },
+  {
+    "three_letter_code": "REL",
+    "name": "Religion"
+  },
+  {
+    "three_letter_code": "SLL",
+    "name": "Slavic Languages and Literatures"
+  },
+  {
+    "three_letter_code": "SOC",
+    "name": "Sociology"
+  },
+  {
+    "three_letter_code": "SPA",
+    "name": "Spanish and Portugese"
+  }
+]

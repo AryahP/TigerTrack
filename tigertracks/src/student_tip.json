@@ -1,0 +1,50 @@
+[
+  {
+    "student_id": 1,
+    "tip_text": "Explore different research labs early in your COS journey."
+  },
+  {
+    "student_id": 1,
+    "tip_text": "Join the HackPrinceton club, great for networking."
+  },
+  {
+    "student_id": 2,
+    "tip_text": "Take a creative writing workshop, even if you're not a major."
+  },
+  {
+    "student_id": 3,
+    "tip_text": "Office hours are your best friend for complex ELE courses."
+  },
+  {
+    "student_id": 3,
+    "tip_text": "Start your senior thesis proposal early!"
+  },
+  {
+    "student_id": 4,
+    "tip_text": "Utilize the career services for internship opportunities in finance."
+  },
+  {
+    "student_id": 5,
+    "tip_text": "The history department has amazing faculty, connect with them!"
+  },
+  {
+    "student_id": 6,
+    "tip_text": "Don't be afraid to take classes outside your comfort zone."
+  },
+  {
+    "student_id": 7,
+    "tip_text": "The writing center is a fantastic resource for all assignments."
+  },
+  {
+    "student_id": 8,
+    "tip_text": "Look into the integrated science curriculum, it's challenging but rewarding."
+  },
+  {
+    "student_id": 9,
+    "tip_text": "Princeton's alumni network is incredibly valuable, use it wisely."
+  },
+  {
+    "student_id": 10,
+    "tip_text": "Attend guest lectures! You never know what might inspire you."
+  }
+]

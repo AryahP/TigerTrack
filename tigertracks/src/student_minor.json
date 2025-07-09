@@ -1,0 +1,42 @@
+[
+{
+   "student_id": 1,
+   "minor_id": 16
+},
+{
+   "student_id": 2,
+   "minor_id": 17
+},
+{
+   "student_id": 3,
+   "minor_id": 18
+},
+{
+   "student_id": 9,
+   "minor_id": 16
+},
+{
+   "student_id": 7,
+   "minor_id": 16
+},
+{
+   "student_id": 4,
+   "minor_id": 12
+},
+{
+   "student_id": 4,
+   "minor_id": 27
+},
+{
+   "student_id": 4,
+   "minor_id": 28
+},
+{
+   "student_id": 9,
+   "minor_id": 29
+},
+{
+   "student_id": 3,
+   "minor_id": 30
+}
+]

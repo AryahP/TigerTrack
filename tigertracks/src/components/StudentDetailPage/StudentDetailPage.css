@@ -1,0 +1,53 @@
+.student-detail-page{
+    display: flex; 
+    font-family: 'IBM Plex Sans', sans-serif; 
+
+}
+
+.right{
+    flex: 2; 
+    padding-left: 1em; 
+    
+}
+
+.left{
+    flex: 1;
+    padding-left: 1em; 
+    border-right: 1px solid black; 
+}
+
+.highlighted-li{
+    border: 1px solid black; 
+    padding: 10px; 
+    background-color: white; 
+    width: 75%;
+    margin-bottom: 1px; 
+   
+}
+
+.grad-year{
+
+}
+
+h3{
+    padding-left: 2em; 
+
+}
+
+.go-back-home{
+    border-radius: 1em;
+    background-color: #FFF9DB;
+}
+
+.go-back-home:hover{
+    background-color: #f8e899;
+
+}
+
+.major-list{
+
+}
+
+.minor-list{
+    
+}

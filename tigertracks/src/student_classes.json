@@ -1,0 +1,483 @@
+
+ [
+    {
+      "student_id": 1,
+      "class_id": 1,
+      "enrollment_year": 2024,
+      "semester": "Fall"
+    },
+    {
+      "student_id": 1,
+      "class_id": 5,
+      "enrollment_year": 2024,
+      "semester": "Fall"
+    },
+    {
+      "student_id": 1,
+      "class_id": 8,
+      "enrollment_year": 2024,
+      "semester": "Fall"
+    },
+    {
+      "student_id": 1,
+      "class_id": 10,
+      "enrollment_year": 2024,
+      "semester": "Fall"
+    },
+    {
+      "student_id": 1,
+      "class_id": 2,
+      "enrollment_year": 2025,
+      "semester": "Spring"
+    },
+    {
+      "student_id": 1,
+      "class_id": 6,
+      "enrollment_year": 2025,
+      "semester": "Spring"
+    },
+    {
+      "student_id": 1,
+      "class_id": 9,
+      "enrollment_year": 2025,
+      "semester": "Spring"
+    },
+    {
+      "student_id": 1,
+      "class_id": 11,
+      "enrollment_year": 2025,
+      "semester": "Spring"
+    },
+    {
+      "student_id": 2,
+      "class_id": 1,
+      "enrollment_year": 2024,
+      "semester": "Fall"
+    },
+    {
+      "student_id": 2,
+      "class_id": 5,
+      "enrollment_year": 2024,
+      "semester": "Fall"
+    },
+    {
+      "student_id": 2,
+      "class_id": 12,
+      "enrollment_year": 2024,
+      "semester": "Fall"
+    },
+    {
+      "student_id": 2,
+      "class_id": 10,
+      "enrollment_year": 2024,
+      "semester": "Fall"
+    },
+    {
+      "student_id": 2,
+      "class_id": 2,
+      "enrollment_year": 2025,
+      "semester": "Spring"
+    },
+    {
+      "student_id": 2,
+      "class_id": 6,
+      "enrollment_year": 2025,
+      "semester": "Spring"
+    },
+    {
+      "student_id": 2,
+      "class_id": 11,
+      "enrollment_year": 2025,
+      "semester": "Spring"
+    },
+    {
+      "student_id": 2,
+      "class_id": 13,
+      "enrollment_year": 2025,
+      "semester": "Spring"
+    },
+    {
+      "student_id": 3,
+      "class_id": 14,
+      "enrollment_year": 2024,
+      "semester": "Fall"
+    },
+    {
+      "student_id": 3,
+      "class_id": 15,
+      "enrollment_year": 2024,
+      "semester": "Fall"
+    },
+    {
+      "student_id": 3,
+      "class_id": 5,
+      "enrollment_year": 2024,
+      "semester": "Fall"
+    },
+    {
+      "student_id": 3,
+      "class_id": 10,
+      "enrollment_year": 2024,
+      "semester": "Fall"
+    },
+    {
+      "student_id": 3,
+      "class_id": 8,
+      "enrollment_year": 2025,
+      "semester": "Spring"
+    },
+    {
+      "student_id": 3,
+      "class_id": 6,
+      "enrollment_year": 2025,
+      "semester": "Spring"
+    },
+    {
+      "student_id": 3,
+      "class_id": 16,
+      "enrollment_year": 2025,
+      "semester": "Spring"
+    },
+    {
+      "student_id": 3,
+      "class_id": 12,
+      "enrollment_year": 2025,
+      "semester": "Spring"
+    },
+    {
+      "student_id": 4,
+      "class_id": 1,
+      "enrollment_year": 2024,
+      "semester": "Fall"
+    },
+    {
+      "student_id": 4,
+      "class_id": 5,
+      "enrollment_year": 2024,
+      "semester": "Fall"
+    },
+    {
+      "student_id": 4,
+      "class_id": 11,
+      "enrollment_year": 2024,
+      "semester": "Fall"
+    },
+    {
+      "student_id": 4,
+      "class_id": 10,
+      "enrollment_year": 2024,
+      "semester": "Fall"
+    },
+    {
+      "student_id": 4,
+      "class_id": 2,
+      "enrollment_year": 2025,
+      "semester": "Spring"
+    },
+    {
+      "student_id": 4,
+      "class_id": 6,
+      "enrollment_year": 2025,
+      "semester": "Spring"
+    },
+    {
+      "student_id": 4,
+      "class_id": 13,
+      "enrollment_year": 2025,
+      "semester": "Spring"
+    },
+    {
+      "student_id": 4,
+      "class_id": 16,
+      "enrollment_year": 2025,
+      "semester": "Spring"
+    },
+    {
+      "student_id": 5,
+      "class_id": 14,
+      "enrollment_year": 2024,
+      "semester": "Fall"
+    },
+    {
+      "student_id": 5,
+      "class_id": 15,
+      "enrollment_year": 2024,
+      "semester": "Fall"
+    },
+    {
+      "student_id": 5,
+      "class_id": 12,
+      "enrollment_year": 2024,
+      "semester": "Fall"
+    },
+    {
+      "student_id": 5,
+      "class_id": 10,
+      "enrollment_year": 2024,
+      "semester": "Fall"
+    },
+    {
+      "student_id": 5,
+      "class_id": 8,
+      "enrollment_year": 2025,
+      "semester": "Spring"
+    },
+    {
+      "student_id": 5,
+      "class_id": 5,
+      "enrollment_year": 2025,
+      "semester": "Spring"
+    },
+    {
+      "student_id": 5,
+      "class_id": 11,
+      "enrollment_year": 2025,
+      "semester": "Spring"
+    },
+    {
+      "student_id": 5,
+      "class_id": 16,
+      "enrollment_year": 2025,
+      "semester": "Spring"
+    },
+    {
+      "student_id": 6,
+      "class_id": 1,
+      "enrollment_year": 2024,
+      "semester": "Fall"
+    },
+    {
+      "student_id": 6,
+      "class_id": 3,
+      "enrollment_year": 2024,
+      "semester": "Fall"
+    },
+    {
+      "student_id": 6,
+      "class_id": 7,
+      "enrollment_year": 2024,
+      "semester": "Fall"
+    },
+    {
+      "student_id": 6,
+      "class_id": 13,
+      "enrollment_year": 2024,
+      "semester": "Fall"
+    },
+    {
+      "student_id": 6,
+      "class_id": 2,
+      "enrollment_year": 2025,
+      "semester": "Spring"
+    },
+    {
+      "student_id": 6,
+      "class_id": 4,
+      "enrollment_year": 2025,
+      "semester": "Spring"
+    },
+    {
+      "student_id": 6,
+      "class_id": 8,
+      "enrollment_year": 2025,
+      "semester": "Spring"
+    },
+    {
+      "student_id": 6,
+      "class_id": 12,
+      "enrollment_year": 2025,
+      "semester": "Spring"
+    },
+    {
+      "student_id": 7,
+      "class_id": 14,
+      "enrollment_year": 2024,
+      "semester": "Fall"
+    },
+    {
+      "student_id": 7,
+      "class_id": 15,
+      "enrollment_year": 2024,
+      "semester": "Fall"
+    },
+    {
+      "student_id": 7,
+      "class_id": 6,
+      "enrollment_year": 2024,
+      "semester": "Fall"
+    },
+    {
+      "student_id": 7,
+      "class_id": 12,
+      "enrollment_year": 2024,
+      "semester": "Fall"
+    },
+    {
+      "student_id": 7,
+      "class_id": 9,
+      "enrollment_year": 2025,
+      "semester": "Spring"
+    },
+    {
+      "student_id": 7,
+      "class_id": 7,
+      "enrollment_year": 2025,
+      "semester": "Spring"
+    },
+    {
+      "student_id": 7,
+      "class_id": 16,
+      "enrollment_year": 2025,
+      "semester": "Spring"
+    },
+    {
+      "student_id": 7,
+      "class_id": 11,
+      "enrollment_year": 2025,
+      "semester": "Spring"
+    },
+    {
+      "student_id": 8,
+      "class_id": 1,
+      "enrollment_year": 2024,
+      "semester": "Fall"
+    },
+    {
+      "student_id": 8,
+      "class_id": 5,
+      "enrollment_year": 2024,
+      "semester": "Fall"
+    },
+    {
+      "student_id": 8,
+      "class_id": 13,
+      "enrollment_year": 2024,
+      "semester": "Fall"
+    },
+    {
+      "student_id": 8,
+      "class_id": 14,
+      "enrollment_year": 2024,
+      "semester": "Fall"
+    },
+    {
+      "student_id": 8,
+      "class_id": 2,
+      "enrollment_year": 2025,
+      "semester": "Spring"
+    },
+    {
+      "student_id": 8,
+      "class_id": 6,
+      "enrollment_year": 2025,
+      "semester": "Spring"
+    },
+    {
+      "student_id": 8,
+      "class_id": 15,
+      "enrollment_year": 2025,
+      "semester": "Spring"
+    },
+    {
+      "student_id": 8,
+      "class_id": 12,
+      "enrollment_year": 2025,
+      "semester": "Spring"
+    },
+    {
+      "student_id": 9,
+      "class_id": 8,
+      "enrollment_year": 2024,
+      "semester": "Fall"
+    },
+    {
+      "student_id": 9,
+      "class_id": 9,
+      "enrollment_year": 2024,
+      "semester": "Fall"
+    },
+    {
+      "student_id": 9,
+      "class_id": 11,
+      "enrollment_year": 2024,
+      "semester": "Fall"
+    },
+    {
+      "student_id": 9,
+      "class_id": 10,
+      "enrollment_year": 2024,
+      "semester": "Fall"
+    },
+    {
+      "student_id": 9,
+      "class_id": 1,
+      "enrollment_year": 2025,
+      "semester": "Spring"
+    },
+    {
+      "student_id": 9,
+      "class_id": 5,
+      "enrollment_year": 2025,
+      "semester": "Spring"
+    },
+    {
+      "student_id": 9,
+      "class_id": 14,
+      "enrollment_year": 2025,
+      "semester": "Spring"
+    },
+    {
+      "student_id": 9,
+      "class_id": 16,
+      "enrollment_year": 2025,
+      "semester": "Spring"
+    },
+    {
+      "student_id": 10,
+      "class_id": 3,
+      "enrollment_year": 2024,
+      "semester": "Fall"
+    },
+    {
+      "student_id": 10,
+      "class_id": 7,
+      "enrollment_year": 2024,
+      "semester": "Fall"
+    },
+    {
+      "student_id": 10,
+      "class_id": 12,
+      "enrollment_year": 2024,
+      "semester": "Fall"
+    },
+    {
+      "student_id": 10,
+      "class_id": 13,
+      "enrollment_year": 2024,
+      "semester": "Fall"
+    },
+    {
+      "student_id": 10,
+      "class_id": 4,
+      "enrollment_year": 2025,
+      "semester": "Spring"
+    },
+    {
+      "student_id": 10,
+      "class_id": 2,
+      "enrollment_year": 2025,
+      "semester": "Spring"
+    },
+    {
+      "student_id": 10,
+      "class_id": 11,
+      "enrollment_year": 2025,
+      "semester": "Spring"
+    },
+    {
+      "student_id": 10,
+      "class_id": 15,
+      "enrollment_year": 2025,
+      "semester": "Spring"
+    }
+  ]
